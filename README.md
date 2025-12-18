@@ -85,4 +85,4 @@ python manage.py runserver
 
 ---
 
-Made with ❤️ by Shikeb Khan
+Made with ❤️ by Shezi Khan
